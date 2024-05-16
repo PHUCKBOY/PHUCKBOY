@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PHUCKBOY
+- 👋 Hi, I’m @PHUC_TRAN
 - 👀 I’m interested in Pixel Game
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on ...
